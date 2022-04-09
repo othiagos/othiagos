@@ -2,7 +2,7 @@
 <div align="center">
   <h2 align="left">⚡ GitHub Stats</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oThiagoS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oThiagoS&layout=compact&langs_count=7&theme=dracula&hide=css, scss,html,handlebars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oThiagoS&layout=compact&langs_count=10&theme=dracula&hide=css, scss,html,handlebars"/>
 </div>
 <div align="center"><br>
   <h2>💻 Technologies</h2>
