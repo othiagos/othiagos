@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oThiagoS&layout=compact&langs_count=10&theme=dracula&hide=css, scss,html,handlebars"/>
 </div>
 <div align="center"><br>
-  <h2>💻 Technologies</h2>
+  <h2>💻 Tools</h2>
   
   <img alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128color=currentColor">
   <img alt="NodeJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
