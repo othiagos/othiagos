@@ -1,10 +1,12 @@
 ### Hi there 👋
 <div align="center">
-  <a href="https://github.com/oThiagoS">
+  <h2 align="left">⚡ GitHub Stats</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oThiagoS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oThiagoS&layout=compact&langs_count=7&theme=dracula&hide=css, scss,html,handlebars"/>
 </div>
 <div align="center"><br>
+  <h2>💻 Technologies</h2>
+  
   <img alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128color=currentColor">
   <img alt="NodeJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img alt="JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128color=currentColor">
