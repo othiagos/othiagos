@@ -3,8 +3,8 @@
 <div align="center">
 	<a href="https://github.com/othiagos">
 	<h2 align="left">⚡ GitHub Stats</h2>
-	<img height="180em"src="https://github-readme-stats.vercel.app/api?username=othiagos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagos&layout=compact&langs_count=10&theme=tokyonight&hide=css, scss,html,handlebars"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=othiagos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagos&layout=compact&langs_count=10&theme=tokyonight&hide=css,scss,html,handlebars"/>
 </div>
 
 <div align="center"><br>
