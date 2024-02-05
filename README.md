@@ -9,13 +9,17 @@
 
 <div align="center"><br>
 	<h2>💻 Tools</h2>
-  <img alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128color=currentColor">
-  <img alt="NodeJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  <img alt="JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128color=currentColor">
-  <img alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128color=currentColor">
-  <img alt="VueJS" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">  
-  <img alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
+  <img alt="Rust" height="40" width="40" src="https://www.rust-lang.org/logos/rust-logo-blk.svg">
   <img alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
-  <img alt="Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor">
 </div>
+
+<div align="center"><br>
+	<h2>💻 Tools</h2>
+  <img alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg">
+  <img alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg">
+  <img alt="Rust" height="30" width="40" src="./logo/rust_lang.svg">
+  <img alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg">
+</div>
+
